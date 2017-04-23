@@ -4,7 +4,7 @@
 
 ## 项目说明
 - 项目构建的脚手架使用的是 [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack)
-- 视频教程中使用的是ES5语法，本项目使用ES6语法，所以有诸多的不同
+- 本项目使用ES6语法
 
 ## 如何开始
 clone到本地
