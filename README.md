@@ -11,7 +11,7 @@
 
 ## 如何开始 clone到本地
 
-> git clone https://github.com/ckinmind/many-react-demo.git
+> git clone https://github.com/TimeDe/wall-of-photo.git
 安装依赖
 
 > npm install
