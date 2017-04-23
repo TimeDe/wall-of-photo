@@ -7,6 +7,7 @@
 - 本项目使用ES6语法
 
 ## 如何开始
+
 clone到本地
 ```
 > git clone https://github.com/TimeDe/wall-of-photo.git
